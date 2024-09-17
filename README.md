@@ -1,4 +1,5 @@
 # NGINX.Knowledge
 
 # templates:
-https://github.com/SourceGraphs/NGINX.template
+Use to Learn & practice NGINX configuration.
+- https://github.com/SourceGraphs/NGINX.template
